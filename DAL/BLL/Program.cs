@@ -10,8 +10,7 @@ namespace BLL
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello BLL");
-
+           
             // git add .
             // git commit -m "message"
             // git push origin master
