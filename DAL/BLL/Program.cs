@@ -15,6 +15,7 @@ namespace BLL
             // git commit -m "message"
             // git push origin master
             Console.WriteLine("Hello BLL");
+            // Hello sync
         }
     }
 }
